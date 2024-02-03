@@ -1,0 +1,17 @@
+Binary trees:
+
+1. Full Binary tree- each node has either 0 or 2 children
+2. Complete Binary tree- all levels are completely filled, except for last level which is as left skewed as possible
+3. Perfect Binary tree- all leaf nodes at the same level
+4. Balanced Binary tree- height can be a max of log(n)
+5. Degenerate tree - a straight line/linked lsit of a tree
+
+
+## Tree Traversal methods
+
+1. Depth First Search:
+    1). Inorder Traversal (Left + Root + Right)
+    2). Pre-order Traversal (Root + Left + Right)
+    3). Post-order Traversal (Left + Right + Root)
+2. Breadth First Search:
+    From top to bottom level search through the tree
