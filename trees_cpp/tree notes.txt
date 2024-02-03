@@ -4,7 +4,7 @@ Binary trees:
 2. Complete Binary tree- all levels are completely filled, except for last level which is as left skewed as possible
 3. Perfect Binary tree- all leaf nodes at the same level
 4. Balanced Binary tree- height can be a max of log(n)
-5. Degenerate tree - a straight line/linked lsit of a tree
+5. Degenerate tree - a straight line/linked lsit of a tree 
 
 
 ## Tree Traversal methods
